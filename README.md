@@ -26,7 +26,7 @@ its result figure.
 
 | Chapter | Topic | Techniques implemented |
 |---------|-------|------------------------|
-| [**3**](fundamentals-solomon-breckon/ch03) | Pixels & point operations | Image arithmetic, logical ops, log / exponential / power-law transforms, histograms, histogram equalisation and matching, global vs adaptive thresholding · 8 exercises + examples |
+| [**3**](fundamentals-solomon-breckon/ch03) | Pixels & point operations | Image arithmetic (add, subtract, multiply, divide, absolute difference), inversion, log / exponential transforms, histograms, global and adaptive (CLAHE) equalisation, global vs adaptive thresholding · 8 exercises + examples |
 | [**4**](fundamentals-solomon-breckon/ch04) | Enhancement & spatial filtering | Salt-and-pepper / Gaussian noise models, mean, median and conservative filters with timing comparison, Gaussian smoothing, motion blur and boundary handling, Laplacian sharpening, Roberts / Sobel edges per RGB channel · 11 exercises + examples |
 | [**5**](fundamentals-solomon-breckon/ch05) | Fourier transforms | 2-D FFT, spectrum visualisation, frequency-domain filtering |
 | [**6**](fundamentals-solomon-breckon/ch06) | Image restoration | PSF modelling, inverse filtering, Wiener (`deconvwnr`), regularised (`deconvreg`) and Lucy–Richardson (`deconvlucy`) deconvolution |
@@ -37,7 +37,7 @@ its result figure.
 
 | Chapter | Content |
 |---------|---------|
-| [**3**: Intensity transformations & spatial filtering](dip-using-matlab-gonzalez/ch03) | All chapter examples (`Chapter3.m`) plus projects P3.1–P3.10 in MATLAB and Python: log / gamma / contrast-stretch / sigmoid transforms, global and local histogram equalisation, histogram specification, performance timing, linear and nonlinear spatial filtering, and a zone-plate filtering study |
+| [**3**: Intensity transformations & spatial filtering](dip-using-matlab-gonzalez/ch03) | All chapter examples (`Chapter3.m`) plus projects P3.1–P3.10 in MATLAB and Python: log / gamma / contrast-stretch / sigmoid transforms, global and local histogram equalisation, histogram specification, execution-time comparison, order-statistic and nonlinear spatial filtering (`ordfilt2`, `colfilt`, median), and a fuzzy-rule-based intensity transformation (P3.10) |
 
 The Gonzalez projects were solved on a personal portrait instead of the support-package images, and every
 script works with any input image. P3.8 needs data files that exist only in the book's support package and is
