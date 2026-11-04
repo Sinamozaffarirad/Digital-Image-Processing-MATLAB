@@ -1,0 +1,15 @@
+Kernel Size: 3, Maximum Change: 0.404213
+Kernel Size: 5, Maximum Change: 0.178546
+Kernel Size: 7, Maximum Change: 0.121371
+Kernel Size: 9, Maximum Change: 0.123265
+Kernel Size: 11, Maximum Change: 0.072946
+Kernel Size: 13, Maximum Change: 0.058341
+Kernel Size: 15, Maximum Change: 0.042559
+Kernel Size: 17, Maximum Change: 0.030334
+Kernel Size: 19, Maximum Change: 0.020901
+Kernel Size: 21, Maximum Change: 0.014818
+Kernel Size: 23, Maximum Change: 0.009872
+Kernel Size: 25, Maximum Change: 0.006737
+Kernel Size: 27, Maximum Change: 0.004361
+Kernel Size: 29, Maximum Change: 0.002658
+The size of the smallest square kernel for which the maximum change is less than one intensity level in 256 is: 29

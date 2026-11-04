@@ -1,0 +1,1 @@
+There is no code for this example and all it's discussing about four principal ways to plot histograms in Matlab!

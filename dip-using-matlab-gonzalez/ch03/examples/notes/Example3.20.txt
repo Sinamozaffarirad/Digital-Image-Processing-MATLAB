@@ -1,0 +1,1 @@
+There is no code for this example and it's discussing about Boundary detection using fuzzy, rule-based spatial filtering!

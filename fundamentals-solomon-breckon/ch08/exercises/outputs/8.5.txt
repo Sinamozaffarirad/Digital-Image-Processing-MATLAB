@@ -1,0 +1,10 @@
+Eroded Image (A ⊖ B):
+     4     8     5
+     6     4     7
+     4     7     5
+
+
+Dilated Image (A ⊕ B):
+   Inf   Inf   Inf
+   Inf    16   Inf
+   Inf   Inf   Inf

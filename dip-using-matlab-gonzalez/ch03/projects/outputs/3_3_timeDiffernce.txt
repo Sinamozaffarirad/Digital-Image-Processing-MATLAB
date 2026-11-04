@@ -1,0 +1,2 @@
+Elapsed time localhisteq is 0.646930 seconds.
+Elapsed time localhisteq_loops is 3.654030 seconds.

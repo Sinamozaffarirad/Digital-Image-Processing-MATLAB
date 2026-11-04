@@ -1,0 +1,1 @@
+We don't have access to DIPUMe3 support package to load 'lpkernel1D.txt' file so we cannot get an output from this exercise!
